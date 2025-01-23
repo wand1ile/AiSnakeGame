@@ -12,3 +12,5 @@ This project is my AI snake that recieved 80% in the [Wits Snake AI Competition]
 While the algorithms are efficient and the strategies effective, the code could be improved for better readability. Some lines may appear messy or redundant, and future refinements could focus on maintaining cleaner, more maintainable code.
 
 Feel free to explore and improve upon this project!
+
+![Performance Scores](./scores.jpg)
