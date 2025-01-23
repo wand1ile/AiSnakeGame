@@ -14,3 +14,4 @@ While the algorithms are efficient and the strategies effective, the code could 
 Feel free to explore and improve upon this project!
 
 ![Performance Scores](./scores.jpg)
+![Performance Scores](./mysnake.png)
