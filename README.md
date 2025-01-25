@@ -2,7 +2,7 @@
 
 This project is my AI snake that recieved 80% in the [Wits Snake AI Competition](https://snake.wits.ai/), outperforming almost all 350+ participants.
 
-## About the AI
+## About the Project
 - **Language:** The snake is written entirely in Java.
 - **Pathfinding:** It uses an enhanced A* algorithm to navigate efficiently on a 2x2 grid.
 - **Survival Strategy:** When trapped, the snake switches to a custom Breadth-First Search (BFS) algorithm to maximize survival time.
