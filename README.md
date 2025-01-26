@@ -1,4 +1,4 @@
-# Snake AI - 1st Place Winner 🐍🥇
+# Snake AI - Top Ranking Winner 🐍🥇
 
 This project is my AI snake that recieved 80% in the [Wits Snake AI Competition](https://snake.wits.ai/), outperforming almost all 350+ participants.
 
